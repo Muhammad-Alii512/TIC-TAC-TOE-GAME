@@ -42,4 +42,4 @@ This is a **frontend-only project** demonstrating **DOM manipulation, game logic
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/Muhammad-Alii512/TIC-TAC-TOE-GAME.git 
